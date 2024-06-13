@@ -11,8 +11,12 @@ justify-content: space-between;
 padding: 20px;
 }
 
+.cabecalho: inline;
 
-
-
+cabecalho_imagem{
+    width: 200px;/*altera o comprimento*/
+    height: 200px;/*altera a altura da imagem*/
+    border-radius: 50%;/*deixa a imagem redonda*/
+}
 
 
